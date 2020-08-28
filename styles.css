@@ -72,7 +72,16 @@
   background-color:  #4CAF50;
   margin-left: 5ch;
   margin-top: 5ch;
+  font-size: 10px; 
+  margin-bottom: 0vw; 
+  margin-top: 1vw; 
+  float: left;
+  width: 1%;
+}
 
+.sqtext{
+  margin-left: 5ch;
+   margin-top:1ch;
 }
 
 .square1 {
@@ -81,7 +90,18 @@
   background-color: #2196F3;
   margin-left: 5ch;
   margin-top: 5ch;
+  font-size: 10px; 
+  margin-bottom: 0vw; 
+  margin-top: 0vw;
+  float: left;
+  width: 1%;
+  padding-right: 1ch;
+}
 
+
+.sqtext1{
+  margin-left: 5ch; 
+  margin-top:-1ch;
 }
 
 .square2 {
@@ -90,7 +110,16 @@
   background-color: #f44336;
   margin-left: 5ch;
   margin-top: 5ch;
+  font-size: 10px; 
+  margin-bottom: 0vw; 
+  margin-top: 0vw; 
+  float: left;
+  width: 1%;
+}
 
+.sqtext2{
+  margin-left: 5ch; 
+  margin-top: -1ch;
 }
 
 .square4 {
@@ -99,7 +128,15 @@
   background-color: #1b458b;
   margin-left: 5ch;
   margin-top: 5ch;
+  font-size: 10px; 
+  margin-bottom: 0vw; 
+  margin-left: 10ch;
 
+}
+
+.sqtext3{
+  margin-top: 0vw;
+  margin-left: 1ch;
 }
 
 .square5 {
@@ -108,7 +145,15 @@
   background-color: #ccbb87;
   margin-left: 5ch;
   margin-top: 5ch;
+  font-size: 10px; 
+  margin-bottom: -0vw; 
+  margin-left: 10ch;
 
+}
+
+.sqtext4{
+  margin-top: -5vw;
+  margin-left: 1ch;
 }
 
 .square6 {
@@ -117,7 +162,15 @@
   background-color: #cc0000;
   margin-left: 5ch;
   margin-top: 5ch;
+  font-size: 10px;
+  margin-bottom: 0vw; 
+  margin-left: 10ch;
 
+}
+
+.sqtext4{
+  margin-top: 0vw;
+  margin-left: 1ch;
 }
 
 .square7 {
@@ -126,7 +179,15 @@
   background-color: #cc00ff;
   margin-left: 5ch;
   margin-top: 5ch;
+  font-size: 10px; 
+  margin-bottom: 0vw; 
+  margin-left: 10ch;
 
+}
+
+.sqtext5{
+  margin-top: 0vw;
+  margin-left: 1ch;
 }
 
 .figcaption {
@@ -341,4 +402,18 @@
 
   transform:rotate(100deg);
 
+}
+
+
+
+.column1 {
+  float: left;
+  width: 60%;
+  padding: 5px;
+}
+
+.column2 {
+  float: left;
+  width: 40%;
+  padding: 5px;
 }
